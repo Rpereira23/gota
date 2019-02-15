@@ -47,11 +47,6 @@ jobs:
       - attach_workspace:
           at: /go/src/github.com/go-gota/gota
       - run:
-          name: Test and collect coverages
-          command: |
-            echo "${MERCARI_ARTIFACT_CONTAINER_BUILDER_CREDENTIALS_JSON}" > ${GOOGLE_APPLICATION_CREDENTIALS}
-            make cover
-      - run:
           name: Unit Tests
           command: |
             go test ./...
