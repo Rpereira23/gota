@@ -1,7 +1,7 @@
 version: 2
 
 defaults: &defaults
-  working_directory: /go/src/github.com/go-gota/gota
+  working_directory: /go/src/github.com/Rpereira23/gota
 
 golang: &golang
   <<: *defaults
