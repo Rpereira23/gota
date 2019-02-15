@@ -372,6 +372,6 @@ implied. See the License for the specific language governing
 permissions and limitations under the License.
 
 [1]: https://github.com/gonum
-[2]: https://github.com/kniren/gota
-[3]: https://godoc.org/github.com/kniren/gota/dataframe
-[4]: https://godoc.org/github.com/kniren/gota/series
+[2]: https://github.com/Rpereira23/gota
+[3]: https://godoc.org/github.com/Rpereira23/gota/dataframe
+[4]: https://godoc.org/github.com/Rpereira23/gota/series

@@ -1,0 +1,8 @@
+build/
+vendor/
+coverage.*
+*.coverprofile
+
+.DS_Store
+*.swp
+
